@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.38a8e065.chunk.css",
+    "main.js": "/portfolio/static/js/main.be95c347.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.be95c347.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/js/2.284fab75.chunk.js": "/portfolio/static/js/2.284fab75.chunk.js",
+    "static/js/2.284fab75.chunk.js.map": "/portfolio/static/js/2.284fab75.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.2f69a97c583edea9ef8d63800fd98f23.js": "/portfolio/precache-manifest.2f69a97c583edea9ef8d63800fd98f23.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.38a8e065.chunk.css.map": "/portfolio/static/css/main.38a8e065.chunk.css.map",
+    "static/js/2.284fab75.chunk.js.LICENSE.txt": "/portfolio/static/js/2.284fab75.chunk.js.LICENSE.txt",
+    "static/media/Brazo.png": "/portfolio/static/media/Brazo.4c593bbe.png",
+    "static/media/CanadaImage.png": "/portfolio/static/media/CanadaImage.7d7ec934.png",
+    "static/media/Cluster.png": "/portfolio/static/media/Cluster.d3c1ed91.png",
+    "static/media/ResumeJR.docx": "/portfolio/static/media/ResumeJR.87904d94.docx",
+    "static/media/Titulo.JPG": "/portfolio/static/media/Titulo.d074cda2.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209c2d7e.js",
+    "static/js/2.284fab75.chunk.js",
+    "static/css/main.38a8e065.chunk.css",
+    "static/js/main.be95c347.chunk.js"
+  ]
+}
