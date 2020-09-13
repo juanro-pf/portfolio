@@ -97,13 +97,26 @@ NAVBAR
 }
 
 @media (max-width: 700px) {
-  .navbar {
+  /* .navbar {
+    display: none;
+  } */
+
+  /* .nav-icon-sm-screen {
+    display: block;
+    padding: 21px 0px 16px 10px;
+  } */
+
+  .nav-left {
+    display: none;
+  }
+  
+  .nav-right {
     display: none;
   }
 
-  .nav-icon-sm-screen {
-    display: block;
-    padding: 21px 0px 16px 10px;
+  .nav-icon {
+    margin-top: 11px;
+    padding-bottom: 6px;
   }
 }
 

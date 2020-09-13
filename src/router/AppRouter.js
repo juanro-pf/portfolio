@@ -17,12 +17,13 @@ import { Sidebar } from '../components/Sidebar';
 
 export const AppRouter = () => {
 
-  const {setShow, setOut} = useContext(Context);
+  // const {setShow, setOut} = useContext(Context);
+  const {setOut} = useContext(Context);
 
-  const handleClick= () => {
-    setOut('sidebar animate__animated animate__fadeInLeft animate__faster');
-    setShow('block');
-  }
+  // const handleClick= () => {
+  //   setOut('sidebar animate__animated animate__fadeInLeft animate__faster');
+  //   setShow('block');
+  // }
 
   return (
     <Router>
@@ -31,10 +32,10 @@ export const AppRouter = () => {
           <Sidebar />
         </ClickOut>
         <Navbar/>
-        <i
+        {/* <i
           className= 'nav-icon-sm-screen nav-icon fas fa-bars fa-lg'
           onClick= {handleClick}
-        />
+        /> */}
         <Switch>
           <Route exact path='/portfolio' component= { PortfolioScreen } />
           <Route exact path='/aboutme' component= { AboutMeScreen } />
