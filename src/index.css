@@ -386,6 +386,10 @@ NAVBAR
     width: 90%;
   }
 
+  .edu-data {
+    padding-left: 25px;
+  }
+
   .experience {
     display: block;
   }
@@ -525,12 +529,13 @@ NAVBAR
     margin-top: 20px;
   }
   
-  .contact-info i, p {
-    font-size: 8vw;
+  .contact-info i {
+    font-size: 7vw;
   }
 
   .contact-info p {
-    font-size: 8vw;
+    font-size: 7vw;
+    margin: 0 auto;
   }
 
   .contact-img {

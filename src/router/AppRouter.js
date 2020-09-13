@@ -17,17 +17,17 @@ import { Sidebar } from '../components/Sidebar';
 
 export const AppRouter = () => {
 
-  const {setShow} = useContext(Context);
+  const {setShow, setOut} = useContext(Context);
 
   const handleClick= () => {
-    console.log('Click');
+    setOut('sidebar animate__animated animate__fadeInLeft animate__faster');
     setShow('block');
   }
 
   return (
     <Router>
       <div>
-        <ClickOut props={setShow}>
+        <ClickOut props={setOut}>
           <Sidebar />
         </ClickOut>
         <Navbar/>

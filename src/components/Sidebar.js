@@ -4,7 +4,7 @@ import { Context } from '../Context';
 
 export const Sidebar = () => {
 
-  const {show, setShow} = useContext(Context);
+  const {show, setShow, out} = useContext(Context);
 
   const handleClick= () => {
     setShow('none');
@@ -12,7 +12,7 @@ export const Sidebar = () => {
 
   return (
     <div
-      className= 'sidebar animate__animated animate__fadeInLeft animate__faster'
+      className= {`${out}`}
       style= {{ display: `${show}` }}
     >
       <Link

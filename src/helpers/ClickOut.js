@@ -2,6 +2,8 @@ import React, { useRef, useEffect } from "react";
 import PropTypes from "prop-types";
 
 export const ClickOut = (props) => {
+
+  const setOut= props.props;
   
   const wrapperRef = useRef(null);
   
@@ -12,7 +14,8 @@ export const ClickOut = (props) => {
     function handleClickOutside(event) {
       if (wrapperRef.current && !wrapperRef.current.contains(event.target)) {
         // alert("You clicked outside of me!");
-        props.props('none');
+        setOut('sidebar animate__animated animate__fadeOutLeft animate__faster');
+        // setShow('none');
       }
     }
     // Bind the event listener
@@ -21,7 +24,7 @@ export const ClickOut = (props) => {
       // Unbind the event listener on clean up
       document.removeEventListener("mousedown", handleClickOutside);
     };
-  }, [wrapperRef, props]);
+  }, [wrapperRef, setOut]);
 
   return <div ref={wrapperRef}>{props.children}</div>;
 };

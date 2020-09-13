@@ -68,6 +68,7 @@ export const Resume = () => {
       <Skills props= {{ name: 'Java', percentage: 40 }}/>
       <Skills props= {{ name: 'MySQL', percentage: 40 }}/>
       <Skills props= {{ name: 'Unity', percentage: 40 }}/>
+      <br />
       <hr />
       <p className= 'resume-in-title'>Certificates</p>
       <Certificates props={['CSWA SolidWorks International certification.', 'TOEFL score 603.']}/>

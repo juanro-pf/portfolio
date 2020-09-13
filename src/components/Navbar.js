@@ -4,9 +4,10 @@ import { Context } from '../Context';
 
 export const Navbar = () => {
 
-  const {setShow} = useContext(Context);
+  const {setShow, setOut} = useContext(Context);
 
   const handleClick= () => {
+    setOut('sidebar animate__animated animate__fadeInLeft animate__faster');
     setShow('block');
   }
 
