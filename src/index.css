@@ -10,10 +10,10 @@ body {
 
 .sidebar {
   background-color: rgb(35, 33, 36);
-  width: 250px;
   height: 100%;
   position: fixed;
-  z-index: 1;
+  width: 250px;
+  z-index: 2;
 }
 
 .sidebar p {
@@ -44,9 +44,13 @@ NAVBAR
 ================== */
 
 .navbar {
-  display: flex;
   background-color: rgb(43, 27, 136);
+  display: flex;
   justify-content: space-between;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  z-index: 1;
 }
 
 .navbar-section {
@@ -54,8 +58,8 @@ NAVBAR
 }
 
 .nav-item {
-  text-decoration: none;
   color: white;
+  text-decoration: none;
 }
 
 .nav-item:hover {
@@ -81,6 +85,9 @@ NAVBAR
 .nav-icon-sm-screen {
   cursor: pointer;
   display: none;
+  position: fixed;
+  top: 0px;
+  width: 100%;
 }
 
 .active {
@@ -103,6 +110,7 @@ NAVBAR
 ================== */
 
 .portfolio {
+  margin-top: 50px;
   text-align: center;
 }
 
@@ -112,8 +120,8 @@ NAVBAR
 }
 
 .port-data {
-  background-color: black;
   border-radius: 10px;
+  background-color: black;
   color: white;
   margin: auto;
   margin-bottom: 20px;
@@ -122,9 +130,9 @@ NAVBAR
 
 .port-img {
   border-radius: 50%;
+  margin-top: 30px;
   max-width: 350px;
   width: 65%;
-  margin-top: 30px;
 }
 
 .port-title {
@@ -168,6 +176,7 @@ NAVBAR
 .resume {
   display: flex;
   justify-content: space-between;
+  margin-top: 50px;
   overflow-x: hidden;
 }
 
@@ -199,8 +208,8 @@ NAVBAR
 .resume-title {
   color: #A8DADC;
   font-size: 25px;
-  margin-left: 10px;
-  margin-top: 20px;
+  /* margin-left: 10px;
+  margin-top: 20px; */
   margin: 20px 0 15px 25px;
   text-align: left;
 }
@@ -304,8 +313,8 @@ NAVBAR
 .exp-position {
   font-size: 23px;
   font-style: oblique;
-  margin-top: 0;
   margin-bottom: 10px;
+  margin-top: 0;
 }
 
 /* SKILLS */
@@ -351,8 +360,8 @@ NAVBAR
   }
 
   .resume-out {
-    width: 90%;
     margin: 0 auto;
+    width: 90%;
   }
 
   .resume-in {
@@ -442,20 +451,21 @@ NAVBAR
   color: #F1FAEE;
   display: flex;
   justify-content: space-around;
+  margin-top: 50px;
   overflow-x: hidden;
 }
 
 .contact-left {
-  text-align: center;
   margin: auto;
   margin-top: 5vw;
+  text-align: center;
   width: 45%;
 }
 
 .contact-right {
-  text-align: center;
   margin: auto;
   margin-top: 5vw;
+  text-align: center;
   width: 45%;
 }
 
@@ -561,6 +571,7 @@ NAVBAR
   border-radius: 50px;
   color: #a1c5e2;
   margin: 2.5% 5%;
+  margin-top: 100px;
   text-align: center;
 }
 
@@ -610,6 +621,7 @@ NAVBAR
   flex-wrap: wrap;
   display: flex;
   justify-content: space-around;
+  margin-top: 50px;
 }
 
 .projects div {
@@ -618,11 +630,11 @@ NAVBAR
   border: 5px solid black;
   border-radius: 10px;
   color: #F1FAEE;
+  height: 500px;
   margin-bottom: 20px;
   margin-left: 25px;
   margin-right: 25px;
   margin-top: 100px;
-  height: 500px;
   width: 350px;
 }
 
@@ -634,8 +646,8 @@ NAVBAR
 }
 
 .projects img {
-  max-width: 100%;
   height: auto;
+  max-width: 100%;
   border-top-left-radius: 2%;
   border-top-right-radius: 2%;
 }
@@ -679,6 +691,10 @@ NAVBAR
     height: auto;
     margin: 0 auto;
     margin-top: 20px;
+  }
+
+  .projects div:first-child {
+    margin-top: 70px;
   }
 }
 
