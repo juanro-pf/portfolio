@@ -18,7 +18,7 @@ export const ResumeScreen = () => {
       </p>
       <hr />
       <div className= 'animate__animated animate__heartBeat animate__delay-1s'>
-        <a href={require('../media/CV_Eng.pdf')} download className= 'resume-download'>
+        <a href={require('../media/CV_and_Research_Internship_Paper.zip')} download className= 'resume-download'>
           <p><i className="fas fa-file-download" aria-hidden="true"/>  Download resume</p>
         </a>
       </div>
