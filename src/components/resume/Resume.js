@@ -52,26 +52,26 @@ export const Resume = () => {
       <hr />
       <p className= 'resume-in-title'>Skills</p>
       <Skills props= {{ name: 'ReactJS', percentage: 80 }}/>
-      <Skills props= {{ name: 'Javascript', percentage: 75 }}/>
+      <Skills props= {{ name: 'Javascript', percentage: 80 }}/>
+      <Skills props= {{ name: 'NodeJS', percentage: 75 }}/>
+      <Skills props= {{ name: 'MongoDB', percentage: 75 }}/>
       <Skills props= {{ name: 'HTML', percentage: 75 }}/>
       <Skills props= {{ name: 'CSS', percentage: 75 }}/>
       <Skills props= {{ name: 'Labview', percentage: 75 }}/>
       <Skills props= {{ name: 'Arduino', percentage: 70 }}/>
       <Skills props= {{ name: 'Machine Learning', percentage: 65 }}/>
       <Skills props= {{ name: 'Apigee', percentage: 65 }}/>
-      <Skills props= {{ name: 'Spring', percentage: 65 }}/>
       <Skills props= {{ name: 'Git', percentage: 60 }}/>
       <Skills props= {{ name: 'C', percentage: 60 }}/>
-      <Skills props= {{ name: 'NodeJS', percentage: 50 }}/>
-      <Skills props= {{ name: 'MongoDB', percentage: 50 }}/>
+      <Skills props= {{ name: 'Spring', percentage: 55 }}/>
       <Skills props= {{ name: 'Python', percentage: 50 }}/>
       <Skills props= {{ name: 'Java', percentage: 40 }}/>
-      <Skills props= {{ name: 'MySQL', percentage: 40 }}/>
       <Skills props= {{ name: 'Unity', percentage: 40 }}/>
+      <Skills props= {{ name: 'MySQL', percentage: 20 }}/>
       <br />
       <hr />
       <p className= 'resume-in-title'>Certificates</p>
-      <Certificates props={['CSWA SolidWorks International certification.', 'TOEFL score 603.']}/>
+      <Certificates props={['CSWA SolidWorks International certification.', 'TOEFL score 603.', 'React: Zero to Hero (Hooks and MERN)']}/>
     </div>
   );
 };
