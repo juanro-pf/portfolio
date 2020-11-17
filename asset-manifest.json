@@ -1,27 +1,29 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.08e05271.chunk.css",
-    "main.js": "/portfolio/static/js/main.a53c5bd7.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.a53c5bd7.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.a480e734.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.a480e734.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
-    "static/js/2.45fb2816.chunk.js": "/portfolio/static/js/2.45fb2816.chunk.js",
-    "static/js/2.45fb2816.chunk.js.map": "/portfolio/static/js/2.45fb2816.chunk.js.map",
+    "static/js/2.85b4d8d1.chunk.js": "/portfolio/static/js/2.85b4d8d1.chunk.js",
+    "static/js/2.85b4d8d1.chunk.js.map": "/portfolio/static/js/2.85b4d8d1.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.ecc992d9c936a058ea792fd35c3ab30f.js": "/portfolio/precache-manifest.ecc992d9c936a058ea792fd35c3ab30f.js",
+    "precache-manifest.c75363bca1d80a4040187b8648ffed09.js": "/portfolio/precache-manifest.c75363bca1d80a4040187b8648ffed09.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.08e05271.chunk.css.map": "/portfolio/static/css/main.08e05271.chunk.css.map",
-    "static/js/2.45fb2816.chunk.js.LICENSE.txt": "/portfolio/static/js/2.45fb2816.chunk.js.LICENSE.txt",
+    "static/js/2.85b4d8d1.chunk.js.LICENSE.txt": "/portfolio/static/js/2.85b4d8d1.chunk.js.LICENSE.txt",
     "static/media/Brazo.png": "/portfolio/static/media/Brazo.4c593bbe.png",
-    "static/media/CV_and_Research_Internship_Paper.zip": "/portfolio/static/media/CV_and_Research_Internship_Paper.e9f1b88c.zip",
+    "static/media/CV_and_Research_Internship_Paper.zip": "/portfolio/static/media/CV_and_Research_Internship_Paper.2aa95959.zip",
+    "static/media/Calendar.PNG": "/portfolio/static/media/Calendar.93089932.PNG",
     "static/media/CanadaImage.png": "/portfolio/static/media/CanadaImage.7d7ec934.png",
     "static/media/Cluster.png": "/portfolio/static/media/Cluster.d3c1ed91.png",
+    "static/media/Natours.PNG": "/portfolio/static/media/Natours.86c3b7b8.PNG",
     "static/media/Titulo.JPG": "/portfolio/static/media/Titulo.d074cda2.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
-    "static/js/2.45fb2816.chunk.js",
+    "static/js/2.85b4d8d1.chunk.js",
     "static/css/main.08e05271.chunk.css",
-    "static/js/main.a53c5bd7.chunk.js"
+    "static/js/main.a480e734.chunk.js"
   ]
 }
