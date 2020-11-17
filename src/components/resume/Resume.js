@@ -71,7 +71,7 @@ export const Resume = () => {
       <br />
       <hr />
       <p className= 'resume-in-title'>Certificates</p>
-      <Certificates props={['CSWA SolidWorks International certification.', 'TOEFL score 603.', 'React: Zero to Hero (Hooks and MERN)', 'Node.js, Express, MongoDB & More']}/>
+      <Certificates props={['CSWA SolidWorks International certification.', 'TOEFL score 603.', 'React: Zero to Hero (Hooks and MERN).', 'Node.js, Express, MongoDB & More.']}/>
     </div>
   );
 };
