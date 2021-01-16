@@ -679,6 +679,10 @@ NAVBAR
   text-align: justify;
 }
 
+.project-info a {
+  color: white;
+}
+
 @media (max-width: 1250px) {
 
   .projects {

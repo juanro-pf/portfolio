@@ -51,12 +51,12 @@ export const Resume = () => {
       }}/>
       <hr />
       <p className= 'resume-in-title'>Skills</p>
-      <Skills props= {{ name: 'ReactJS', percentage: 80 }}/>
+      <Skills props= {{ name: 'ReactJS', percentage: 85 }}/>
+      <Skills props= {{ name: 'HTML', percentage: 85 }}/>
       <Skills props= {{ name: 'Javascript', percentage: 80 }}/>
-      <Skills props= {{ name: 'NodeJS', percentage: 80 }}/>
-      <Skills props= {{ name: 'MongoDB', percentage: 80 }}/>
-      <Skills props= {{ name: 'HTML', percentage: 75 }}/>
-      <Skills props= {{ name: 'CSS', percentage: 75 }}/>
+      <Skills props= {{ name: 'CSS', percentage: 80 }}/>
+      <Skills props= {{ name: 'NodeJS', percentage: 75 }}/>
+      <Skills props= {{ name: 'MongoDB', percentage: 75 }}/>
       <Skills props= {{ name: 'Labview', percentage: 75 }}/>
       <Skills props= {{ name: 'Arduino', percentage: 70 }}/>
       <Skills props= {{ name: 'Machine Learning', percentage: 65 }}/>
