@@ -30,7 +30,7 @@ export const Resume = () => {
         company: 'Prokarma, Querétaro, Querétaro',
         position: 'Apigee Support',
         bullets: [
-          'Support the apigee developers with code issues and platform issues.'
+          'Support apigee developers with code issues and platform issues.'
         ]
       }}/>
       <Experience props= {{
