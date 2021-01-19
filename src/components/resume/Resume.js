@@ -26,7 +26,7 @@ export const Resume = () => {
       <hr />
       <p className= 'resume-in-title'>Experience</p>
       <Experience props= {{
-        dates: 'Oct 2019 - Present',
+        dates: '2019 - Present',
         company: 'Prokarma, Querétaro, Querétaro',
         position: 'Apigee Support',
         bullets: [
@@ -34,7 +34,7 @@ export const Resume = () => {
         ]
       }}/>
       <Experience props= {{
-        dates: 'Mar 2018 - May 2018',
+        dates: '2018',
         company: 'Visteon, Querétaro, Querétaro',
         position: 'Validation trainee',
         bullets: [
@@ -42,7 +42,15 @@ export const Resume = () => {
         ]
       }}/>
       <Experience props= {{
-        dates: 'Sep 2015 - Jan 2016',
+        dates: '2016 - 2018',
+        company: 'Innovach, Celaya, Guanajuato',
+        position: 'Salesman',
+        bullets: [
+          'Various products "face to face" sales.'
+        ]
+      }}/>
+      <Experience props= {{
+        dates: '2015 - 2016',
         company: 'Ford MONTES, Celaya, Guanajuato',
         position: 'Salesman',
         bullets: [
