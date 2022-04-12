@@ -9,8 +9,8 @@ const Navbar = () => {
   return (
     <div className='navbar'>
       <div className='navbar__section navbar__section--left'>
-        <p className='navbar__item hide' onClick={() => navigate('/')}><i className='navbar__item fas fa-bars'/>Portfolio</p>
-        <p className='navbar__item navbar__item--hidden' onClick={() => navigate('/')}><i className='navbar__item fas fa-bars'/></p>
+        <p className='navbar__item hide' onClick={() => navigate('/portfolio')}><i className='navbar__item fas fa-bars'/>Portfolio</p>
+        <p className='navbar__item navbar__item--hidden' onClick={() => navigate('/portfolio')}><i className='navbar__item fas fa-bars'/></p>
         {/* <i className='navbar__item fas fa-bars' onClick={() => navigate('/')}/> */}
         {/* <Link to="/about">Portfolio</Link> */}
         {/* <p className='navbar__item' onClick={() => navigate('/')}>Portfolio</p> */}
