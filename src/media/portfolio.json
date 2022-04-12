@@ -1,0 +1,289 @@
+{
+  "portfolio": {
+    "title": "Mechatronics Engineer / Software Engineer",
+    "social-media": [
+      {
+        "id": 1,
+        "href": "tel:4612791146",
+        "icon": "fa-solid fa-square-phone"
+      },
+      {
+        "id": 2,
+        "href": "mailto:juanro.pf@gmai.com",
+        "icon": "fa-solid fa-square-envelope"
+      },
+      {
+        "id": 3,
+        "href": "https://www.linkedin.com/in/rodrigo-ponce-0a98a714b",
+        "icon": "fa-brands fa-linkedin"
+      },
+      {
+        "id": 4,
+        "href": "https://github.com/juanro-pf",
+        "icon": "fa-brands fa-github-square"
+      }
+    ]
+  },
+  "resume": {
+    "name": "Juan Rodrigo Ponce Flores",
+    "title": "Mechatronics engineer",
+    "content": "I am a mechatronics engineer, I have always liked the idea of automatizing processes and am passionate about everything related to it, but since the first semester of my career I noticed that what I like the most is programming.",
+    "education": [
+      {
+        "id": 1,
+        "start-date": "Aug 2015",
+        "end-date": "Jun 2020",
+        "school-name": "Tecnológico de Monterrey",
+        "description": "Mechatronics engineering (Academic scholarship 35% pure 35% funding)."
+      },
+      {
+        "id": 2,
+        "start-date": "May 2019",
+        "end-date": "Aug 2019",
+        "school-name": "University of Ontario Institute of Technology",
+        "description": "Research internship, VR, AR, MR (100% scholarship)."
+      },
+      {
+        "id": 3,
+        "start-date": "Aug 2020",
+        "end-date": "Mar 2022",
+        "school-name": "Universidad Latinoamericana",
+        "description": "Master of Business Administration (50% scholarship)."
+      }
+    ],
+    "experience": [
+      {
+        "id": 1,
+        "start-date": "2019",
+        "end-date": "Present",
+        "company": "Prokarma, Querétaro, Querétaro",
+        "role": "Apigee Support",
+        "responsabilities": [
+          "Support apigee developers with coding issues or queries about Apigee functionality.",
+          "Develop documentations in confluences for the clients, to make easier the Apigee developing and trobleshooting process.",
+          "Support clients through slack, email, jira or calls for ongoing issues in both non production and production environments.",
+          "Understand the client requirements and propose solutions using Apigee policies and capabilities.",
+          "Develop tools to automatize the troubleshoot process for clients."
+        ]
+      },
+      {
+        "id": 2,
+        "start-date": "2018",
+        "end-date": "2018",
+        "company": "Visteon, Querétaro, Querétaro",
+        "role": "Validation trainee",
+        "responsabilities": [
+          "Test the company equipment to check its proper functioning."
+        ]
+      },
+      {
+        "id": 3,
+        "start-date": "2016",
+        "end-date": "2018",
+        "company": "Innovach, Celaya, Guanajuato",
+        "role": "Salesman",
+        "responsabilities": [
+          "Various products 'face to face' sales."
+        ]
+      },
+      {
+        "id": 4,
+        "start-date": "2015",
+        "end-date": "2016",
+        "company": "Ford MONTES, Celaya, Guanajuato",
+        "role": "Salesman",
+        "responsabilities": [
+          "Car sales."
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "id": 1,
+        "name": "ReactJS",
+        "percentage": 85
+      },
+      {
+        "id": 2,
+        "name": "Apigee",
+        "percentage": 85
+      },
+      {
+        "id": 3,
+        "name": "HTML",
+        "percentage": 85
+      },
+      {
+        "id": 4,
+        "name": "Javascript",
+        "percentage": 80
+      },
+      {
+        "id": 5,
+        "name": "CSS",
+        "percentage": 80
+      },
+      {
+        "id": 6,
+        "name": "NodeJS",
+        "percentage": 75
+      },
+      {
+        "id": 7,
+        "name": "MongoDB",
+        "percentage": 75
+      },
+      {
+        "id": 8,
+        "name": "Labview",
+        "percentage": 75
+      },
+      {
+        "id": 9,
+        "name": "Arduino",
+        "percentage": 70
+      },
+      {
+        "id": 10,
+        "name": "Machine Learning",
+        "percentage": 65
+      },
+      {
+        "id": 11,
+        "name": "Git",
+        "percentage": 60
+      },
+      {
+        "id": 12,
+        "name": "C",
+        "percentage": 60
+      },
+      {
+        "id": 13,
+        "name": "Spring",
+        "percentage": 55
+      },
+      {
+        "id": 14,
+        "name": "Python",
+        "percentage": 50
+      },
+      {
+        "id": 15,
+        "name": "Java",
+        "percentage": 40
+      },
+      {
+        "id": 16,
+        "name": "Unity",
+        "percentage": 40
+      },
+      {
+        "id": 17,
+        "name": "MySQL",
+        "percentage": 20
+      }
+    ],
+    "certificates": [
+      {
+        "id": 1,
+        "cert": "CSWA SolidWorks International certification."
+      },
+      {
+        "id": 2,
+        "cert": "TOEFL score 603."
+      },
+      {
+        "id": 3,
+        "cert": "React: Zero to Hero (Hooks and MERN)."
+      },
+      {
+        "id": 4,
+        "cert": "Node.js, Express, MongoDB & More."
+      }
+    ]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "name": "Extending user interactions in virtual, augmented and mixed reality.",
+      "description": "In this project I developed a system that sends the position of your arm to a virtual, augmented or mixed reality headset using arduino and unity.",
+      "links": {},
+      "image": "image1"
+    },
+    {
+      "id": 2,
+      "name": "Sketching robotic arm.",
+      "description": "In this project my team developed a robotic arm with a friendly interface that was able to follow trajectories using arduino and unity.",
+      "links": {},
+      "image": "image2"
+    },
+    {
+      "id": 3,
+      "name": "Car cluster simulation.",
+      "description": "In this project my team developed an interface that when connecting the laptop to a car is able to obtain the same data that the driver can see on the cluster and even more using LabView.",
+      "links": {},
+      "image": "image3"
+    },
+    {
+      "id": 4,
+      "name": "Calendar application. (CURRENTLY UNAVAILABLE)",
+      "description": "In this project I developed a calendar app using React.js. Please visit my repo at <link>link1<link> to get the URL for this project and more React.js projects.",
+      "links": {
+        "link1": {
+          "display-text": "https://github.com/juanro-pf/react",
+          "url": "https://github.com/juanro-pf/react"
+        }
+      },
+      "image": "image4"
+    },
+    {
+      "id": 5,
+      "name": "Natours application.",
+      "description": "In this project I developed a tours API using Node.js, Express and MongoDB. Please visit my repo at <link>link1<link> to get the URL for this project.",
+      "links": {
+        "link1": {
+          "display-text": "https://github.com/juanro-pf/back-natours",
+          "url": "https://github.com/juanro-pf/back-natours"
+        }
+      },
+      "image": "image5"
+    },
+    {
+      "id": 6,
+      "name": "Employees list application.",
+      "description": "In this project I developed an application to keep track of your employees with features like taking a picture, search by employee and more. This was developed with React.js. Check it out at <link>link1<link>, feel free to add, edit, take pictures and whatever you want, everything is stored in your localStorage, so do not worry, no one will see the pictures you take :)",
+      "links": {
+        "link1": {
+          "display-text": "https://juanro-pf.github.io/react-employees-list",
+          "url": "https://juanro-pf.github.io/react-employees-list"
+        }
+      },
+      "image": "image6"
+    },
+    {
+      "id": 7,
+      "name": "20 words time trial application.",
+      "description": "In this project I developed an application to see how fast you can type 20 random words fetched from an API. This was developed with React.js. Check how fast you can type 20 words at <link>link1<link>.",
+      "links": {
+          "link1": {
+            "display-text": "https://juanro-pf.github.io/typing-20-words",
+            "url": "https://juanro-pf.github.io/typing-20-words"
+          }
+      },
+      "image": "image7"
+    },
+    {
+      "id": 8,
+      "name": "Apigee trace code app.",
+      "description": "In this project I developed an application that provides a code generated with the information contained in the request. This was developed with React.js. If you have access to an apigee xml trace, then check it out at <link>link1<link>.",
+      "links": {
+        "link1": {
+          "display-text": "https://github.com/juanro-pf/trace-codes",
+          "url": "https://github.com/juanro-pf/trace-codes"
+        }
+      },
+      "image": "image8"
+    }
+  ]
+}
