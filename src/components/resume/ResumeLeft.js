@@ -11,7 +11,7 @@ const ResumeLeft = () => {
       <hr className='resume__container__left__separator'/>
       <p className='resume__container__left__content'>{portfolioInfo.resume.content}</p>
       <hr className='resume__container__left__separator'/>
-      <a href={require('../../media/CV_and_Research_Internship_Paper.zip')}>
+      <a href={require('../../media/Rodrigo_Ponce_English.pdf')}>
         <div className='resume__container__left__download'>
           <i className='fa-solid fa-download' />
           <p className='resume__container__left__download--text'>Download resume</p>
