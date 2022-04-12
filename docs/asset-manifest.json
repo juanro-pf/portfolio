@@ -11,7 +11,7 @@
     "static/media/20-words.jpg": "/static/media/20-words.cd1c11d3e6e4ba0cb806.jpg",
     "static/media/Employees-list.jpg": "/static/media/Employees-list.8c39b336e84ef20cb70a.jpg",
     "static/media/Calendar.PNG": "/static/media/Calendar.9d0816eff26a7a9b3c68.PNG",
-    "static/media/Titulo.JPG": "/static/media/Titulo.7f01df3060aad18cbded.JPG",
+    "static/media/Titulo.JPG": "./static/media/Titulo.7f01df3060aad18cbded.JPG",
     "static/media/Trace.png": "/static/media/Trace.5d7cc6a5532ce8eb036d.png",
     "index.html": "/index.html",
     "main.005c35fd.css.map": "/static/css/main.005c35fd.css.map",
