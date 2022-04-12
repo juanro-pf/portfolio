@@ -239,7 +239,7 @@
     },
     {
       "id": 5,
-      "name": "Natours application.",
+      "name": "Natours application. (CURRENTLY UNAVAILABLE)",
       "description": "In this project I developed a tours API using Node.js, Express and MongoDB. Please visit my repo at <link>link1<link> to get the URL for this project.",
       "links": {
         "link1": {
@@ -279,8 +279,8 @@
       "description": "In this project I developed an application that provides a code generated with the information contained in the request. This was developed with React.js. If you have access to an apigee xml trace, then check it out at <link>link1<link>.",
       "links": {
         "link1": {
-          "display-text": "https://github.com/juanro-pf/trace-codes",
-          "url": "https://github.com/juanro-pf/trace-codes"
+          "display-text": "https://juanro-pf.github.io/trace-codes/",
+          "url": "https://juanro-pf.github.io/trace-codes/"
         }
       },
       "image": "image8"
