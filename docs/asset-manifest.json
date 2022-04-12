@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.005c35fd.css",
-    "main.js": "/static/js/main.2fc14c30.js",
-    "static/js/787.8d4efb73.chunk.js": "/static/js/787.8d4efb73.chunk.js",
-    "static/media/CV_and_Research_Internship_Paper.zip": "/static/media/CV_and_Research_Internship_Paper.ae19dfb44c839e67b631.zip",
-    "static/media/CanadaImage.png": "/static/media/CanadaImage.9e85467d6d57caddf47b.png",
-    "static/media/Brazo.png": "/static/media/Brazo.d3fe395028cc44645da3.png",
-    "static/media/Natours.PNG": "/static/media/Natours.95f20d1365bb6f0c7036.PNG",
-    "static/media/Cluster.png": "/static/media/Cluster.32f5ff3b741a451c4f1f.png",
-    "static/media/20-words.jpg": "/static/media/20-words.cd1c11d3e6e4ba0cb806.jpg",
-    "static/media/Employees-list.jpg": "/static/media/Employees-list.8c39b336e84ef20cb70a.jpg",
-    "static/media/Calendar.PNG": "/static/media/Calendar.9d0816eff26a7a9b3c68.PNG",
-    "static/media/Titulo.JPG": "./static/media/Titulo.7f01df3060aad18cbded.JPG",
-    "static/media/Trace.png": "/static/media/Trace.5d7cc6a5532ce8eb036d.png",
-    "index.html": "/index.html",
-    "main.005c35fd.css.map": "/static/css/main.005c35fd.css.map",
-    "main.2fc14c30.js.map": "/static/js/main.2fc14c30.js.map",
-    "787.8d4efb73.chunk.js.map": "/static/js/787.8d4efb73.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.005c35fd.css",
+    "main.js": "/portfolio/static/js/main.b1a610ac.js",
+    "static/js/787.8d4efb73.chunk.js": "/portfolio/static/js/787.8d4efb73.chunk.js",
+    "static/media/CV_and_Research_Internship_Paper.zip": "/portfolio/static/media/CV_and_Research_Internship_Paper.ae19dfb44c839e67b631.zip",
+    "static/media/CanadaImage.png": "/portfolio/static/media/CanadaImage.9e85467d6d57caddf47b.png",
+    "static/media/Brazo.png": "/portfolio/static/media/Brazo.d3fe395028cc44645da3.png",
+    "static/media/Natours.PNG": "/portfolio/static/media/Natours.95f20d1365bb6f0c7036.PNG",
+    "static/media/Cluster.png": "/portfolio/static/media/Cluster.32f5ff3b741a451c4f1f.png",
+    "static/media/20-words.jpg": "/portfolio/static/media/20-words.cd1c11d3e6e4ba0cb806.jpg",
+    "static/media/Employees-list.jpg": "/portfolio/static/media/Employees-list.8c39b336e84ef20cb70a.jpg",
+    "static/media/Calendar.PNG": "/portfolio/static/media/Calendar.9d0816eff26a7a9b3c68.PNG",
+    "static/media/Titulo.JPG": "/portfolio/static/media/Titulo.7f01df3060aad18cbded.JPG",
+    "static/media/Trace.png": "/portfolio/static/media/Trace.5d7cc6a5532ce8eb036d.png",
+    "index.html": "/portfolio/index.html",
+    "main.005c35fd.css.map": "/portfolio/static/css/main.005c35fd.css.map",
+    "main.b1a610ac.js.map": "/portfolio/static/js/main.b1a610ac.js.map",
+    "787.8d4efb73.chunk.js.map": "/portfolio/static/js/787.8d4efb73.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.005c35fd.css",
-    "static/js/main.2fc14c30.js"
+    "static/js/main.b1a610ac.js"
   ]
 }
