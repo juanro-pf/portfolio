@@ -129,6 +129,11 @@
         "percentage": 75
       },
       {
+        "id": 22,
+        "name": "Express",
+        "percentage": 75
+      },
+      {
         "id": 7,
         "name": "MongoDB",
         "percentage": 75
@@ -150,38 +155,58 @@
       },
       {
         "id": 11,
+        "name": "Typescript",
+        "percentage": 65
+      },
+      {
+        "id": 12,
         "name": "Git",
         "percentage": 60
       },
       {
-        "id": 12,
+        "id": 13,
         "name": "C",
         "percentage": 60
       },
       {
-        "id": 13,
+        "id": 14,
         "name": "Spring",
         "percentage": 55
       },
       {
-        "id": 14,
+        "id": 15,
         "name": "Python",
         "percentage": 50
       },
       {
-        "id": 15,
+        "id": 16,
         "name": "Java",
         "percentage": 40
       },
       {
-        "id": 16,
+        "id": 17,
         "name": "Unity",
         "percentage": 40
       },
       {
-        "id": 17,
+        "id": 19,
+        "name": "Splunk",
+        "percentage": 40
+      },
+      {
+        "id": 20,
+        "name": "Jira",
+        "percentage": 40
+      },
+      {
+        "id": 18,
         "name": "MySQL",
         "percentage": 20
+      },
+      {
+        "id": 21,
+        "name": "Grafana",
+        "percentage": 15
       }
     ],
     "certificates": [
