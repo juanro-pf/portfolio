@@ -204,6 +204,11 @@
         "percentage": 20
       },
       {
+        "id": 23,
+        "name": "Jenkins",
+        "percentage": 15
+      },
+      {
         "id": 21,
         "name": "Grafana",
         "percentage": 15
