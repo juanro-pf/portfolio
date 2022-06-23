@@ -124,6 +124,11 @@
         "percentage": 80
       },
       {
+        "id": 11,
+        "name": "Typescript",
+        "percentage": 75
+      },
+      {
         "id": 6,
         "name": "NodeJS",
         "percentage": 75
@@ -151,11 +156,6 @@
       {
         "id": 10,
         "name": "Machine Learning",
-        "percentage": 65
-      },
-      {
-        "id": 11,
-        "name": "Typescript",
         "percentage": 65
       },
       {
@@ -314,6 +314,18 @@
         }
       },
       "image": "image8"
+    },
+    {
+      "id": 9,
+      "name": "Brain game.",
+      "description": "For this project I developed a little game so that you can challenge your friends, it includes math, focus and probelm solving minigames. This game was developed using React.js and Typescript. Go play it here <link>link1<link>.",
+      "links": {
+        "link1": {
+          "display-text": "https://juanro-pf.github.io/brain-game/",
+          "url": "https://juanro-pf.github.io/brain-game/"
+        }
+      },
+      "image": "image9"
     }
   ]
 }
