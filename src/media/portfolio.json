@@ -236,22 +236,22 @@
   "projects": [
     {
       "id": 1,
-      "name": "Extending user interactions in virtual, augmented and mixed reality.",
-      "description": "In this project I developed a system that sends the position of your arm to a virtual, augmented or mixed reality headset using arduino and unity.",
+      "name": "Sketching robotic arm.",
+      "description": "In this project my team developed a robotic arm with a friendly interface that was able to follow trajectories using arduino and unity.",
       "links": {},
       "image": "image1"
     },
     {
       "id": 2,
-      "name": "Sketching robotic arm.",
-      "description": "In this project my team developed a robotic arm with a friendly interface that was able to follow trajectories using arduino and unity.",
+      "name": "Car cluster simulation.",
+      "description": "In this project my team developed an interface that when connecting the laptop to a car is able to obtain the same data that the driver can see on the cluster and even more using LabView.",
       "links": {},
       "image": "image2"
     },
     {
       "id": 3,
-      "name": "Car cluster simulation.",
-      "description": "In this project my team developed an interface that when connecting the laptop to a car is able to obtain the same data that the driver can see on the cluster and even more using LabView.",
+      "name": "Extending user interactions in virtual, augmented and mixed reality.",
+      "description": "In this project I developed a system that sends the position of your arm to a virtual, augmented or mixed reality headset using arduino and unity.",
       "links": {},
       "image": "image3"
     },

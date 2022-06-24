@@ -1,8 +1,8 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import Project from './projects/Project';
-import image1 from '../media/CanadaImage.png';
-import image2 from '../media/Brazo.png';
-import image3 from '../media/Cluster.png';
+import image1 from '../media/Brazo.png';
+import image2 from '../media/Cluster.png';
+import image3 from '../media/CanadaImage.png';
 import image4 from '../media/Calendar.PNG';
 import image5 from '../media/Natours.PNG';
 import image6 from '../media/Employees-list.jpg';
@@ -10,6 +10,7 @@ import image7 from '../media/20-words.jpg';
 import image8 from '../media/Trace.png';
 import image9 from '../media/BrainGame.PNG'
 import portfolioInfo from '../media/portfolio.json';
+import { useState } from 'react';
 
 const projects= [...portfolioInfo.projects];
 projects[0].image= image1;
@@ -23,10 +24,19 @@ projects[7].image= image8;
 projects[8].image= image9;
 
 const Projects = () => {
+
+  const [projectsState, setProjectsState] = useState(projects);
+  
+  useEffect(() => {
+    const tempArray= [...projectsState];
+    setProjectsState(tempArray.reverse());
+  }, []);
+  
+
   return (
     <div className='projects__container'>
       {
-        projects.map(project => <Project key={project.id} props={project} />)
+        projectsState.reverse().map(project => <Project key={project.id} props={project} />)
       }
     </div>
   );
